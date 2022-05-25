@@ -34,6 +34,11 @@
 
 </p>
 
+## Heroku Buildpack
+Click the deploy icon below !
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WarcKz/api-mirip-zeks)
+
+      
 ## ```How to install```
 
 [`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)<br>
